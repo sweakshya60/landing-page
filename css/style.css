@@ -68,5 +68,7 @@ ul li.active a{
 }
 .btn:hover{
     background-color: white;
-    color: white;
+}
+a:hover{
+    color: black;
 }
